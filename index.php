@@ -78,54 +78,6 @@
 		</nav>
 
 <div class="container">
-
-	<section class="row" id="order">
-		<div class="column grid_8">
-			<h1>Grab a Jar Today!</h1>
-			<p>We take great pride in crafting each jar with care and only use the best ingredients. Why do we go to such lengths? We want YOU to have the BEST Premium Salsa possible and we believe when you taste Flamin’ A Salsa you will agree, going the extra mile is worth it.</p>
-			<p>We want to thank you for visiting our website! If you haven’t tried Flamin’ A Salsa, give us a try! If you are already a devoted fan, THANK YOU and welcome back! Send us your feedback and don’t forget to upload your Serrano eating challenges!</p>
-		</div><!-- end div.column.grid_8 -->
-		<div class="column grid_4">
-			<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-				<input type="hidden" name="cmd" value="_s-xclick">
-				<input type="hidden" name="hosted_button_id" value="NM2HXY4T8NLAJ">
-				<input class="max-image" type="image" src="img/salsajars.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-				<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-			</form>
-		</div><!-- end div.column.grid_4 -->
-	</section><!-- end section.row -->
-
-	<hr>
-
-	<section class="row" id="gallery">
-		<div class="column grid_8">
-			<div class="row">
-				<a class="column grid_2" rel="prettyphoto[pp_gal]" href="img/large/flaminga1.jpg" title=""><img class="galThumb max-image" src="img/thumbs/flaminga1.jpg" alt="Burns SO Good! Give me more!"></a>
-				<a class="column grid_2" rel="prettyphoto[pp_gal]" href="img/large/flaminga2.jpg" title=""><img class="galThumb max-image" src="img/thumbs/flaminga2.jpg" alt="Made with the freshest ingredients!"></a>
-				<a class="column grid_2" rel="prettyphoto[pp_gal]" href="img/large/flaminga3.jpg" title=""><img class="galThumb max-image" src="img/thumbs/flaminga3.jpg" alt="Fuego with Flavor!"></a>
-				<a class="column grid_2" rel="prettyphoto[pp_gal]" href="img/large/flaminga4.jpg" title=""><img class="galThumb max-image" src="img/thumbs/flaminga4.jpg" alt="Now THAT’s Some Flamin’ A Salsa!"></a>
-			</div><!-- end .row -->
-			<div class="row">
-				<a class="column grid_2" rel="prettyphoto[pp_gal]" href="img/large/flaminga5.jpg" title=""><img class="galThumb max-image" src="img/thumbs/flaminga5.jpg" alt="More FAS please!"></a>
-				<a class="column grid_2" rel="prettyphoto[pp_gal]" href="img/large/flaminga6.jpg" title=""><img class="galThumb max-image" src="img/thumbs/flaminga6.jpg" alt="FAS taking over the city!"></a>
-				<a class="column grid_2" rel="prettyphoto[pp_gal]" href="img/large/flaminga7.jpg" title=""><img class="galThumb max-image" src="img/thumbs/flaminga7.jpg" alt="A party on a chip!"></a>
-				<a class="column grid_2" rel="prettyphoto[pp_gal]" href="img/large/flaminga8.jpg" title=""><img class="galThumb max-image" src="img/thumbs/flaminga8.jpg" alt="A bag of chips is included with EVERY jar!"></a>
-			</div><!-- end .row -->
-			<div class="row">
-				<a class="column grid_2" rel="prettyphoto[pp_gal]" href="img/large/flaminga9.jpg" title=""><img class="galThumb max-image" src="img/thumbs/flaminga9.jpg" alt="EAT THE PEPPER!"></a>
-				<a class="column grid_2" rel="prettyphoto[pp_gal]" href="img/large/flaminga10.jpg" title=""><img class="galThumb max-image" src="img/thumbs/flaminga10.jpg" alt="Pop the lid and let the party begin!"></a>
-				<a class="column grid_2" rel="prettyphoto[pp_gal]" href="img/large/flaminga11.jpg" title=""><img class="galThumb max-image" src="img/thumbs/flaminga11.jpg" alt="Real Men Eat the Pepper!"></a>
-				<a class="column grid_2" rel="prettyphoto[pp_gal]" href="img/large/flaminga12.jpg" title=""><img class="galThumb max-image" src="img/thumbs/flaminga12.jpg" alt="The Morning after an FAS Party!"></a>
-			</div><!-- end .row -->
-		</div><!-- end div.column.grid_8 -->
-		<div class="column grid_4 video-container">
-				<iframe src="http://www.youtube.com/embed/1SuAFQ-hOwI?wmode=opaque" frameborder="0" allowfullscreen></iframe>
-				<p>Here's a review from one of our favorite customers! =D</p>
-		</div><!-- end div.column.grid_4 -->
-	</section><!-- end section.row -->
-
-	<hr>
-
 	<section class="row" id="intro">
 		<div class="column grid_8">
 			<h1>The Salsa with a Brilliant Kick!</h1>
@@ -155,10 +107,62 @@
 		</div><!-- end div.column.grid_8 -->
 	</section><!-- end section.row -->
 	
+	<hr>
+	
+	<section class="row" id="gallery">
+		<div class="column grid_8">
+			<div class="row">
+				<a class="column grid_2" rel="prettyphoto[pp_gal]" href="img/large/flaminga1.jpg" title=""><img class="galThumb max-image" src="img/thumbs/flaminga1.jpg" alt=""></a>
+				<a class="column grid_2" rel="prettyphoto[pp_gal]" href="img/large/flaminga2.jpg" title=""><img class="galThumb max-image" src="img/thumbs/flaminga2.jpg" alt=""></a>
+				<a class="column grid_2" rel="prettyphoto[pp_gal]" href="img/large/flaminga3.jpg" title=""><img class="galThumb max-image" src="img/thumbs/flaminga3.jpg" alt=""></a>
+				<a class="column grid_2" rel="prettyphoto[pp_gal]" href="img/large/flaminga4.jpg" title=""><img class="galThumb max-image" src="img/thumbs/flaminga4.jpg" alt=""></a>
+			</div><!-- end .row -->
+			<div class="row">
+				<a class="column grid_2" rel="prettyphoto[pp_gal]" href="img/large/flaminga5.jpg" title=""><img class="galThumb max-image" src="img/thumbs/flaminga5.jpg" alt=""></a>
+				<a class="column grid_2" rel="prettyphoto[pp_gal]" href="img/large/flaminga6.jpg" title=""><img class="galThumb max-image" src="img/thumbs/flaminga6.jpg" alt=""></a>
+				<a class="column grid_2" rel="prettyphoto[pp_gal]" href="img/large/flaminga7.jpg" title=""><img class="galThumb max-image" src="img/thumbs/flaminga7.jpg" alt=""></a>
+				<a class="column grid_2" rel="prettyphoto[pp_gal]" href="img/large/flaminga8.jpg" title=""><img class="galThumb max-image" src="img/thumbs/flaminga8.jpg" alt=""></a>
+			</div><!-- end .row -->
+			<div class="row">
+				<a class="column grid_2" rel="prettyphoto[pp_gal]" href="img/large/flaminga9.jpg" title=""><img class="galThumb max-image" src="img/thumbs/flaminga9.jpg" alt=""></a>
+				<a class="column grid_2" rel="prettyphoto[pp_gal]" href="img/large/flaminga10.jpg" title=""><img class="galThumb max-image" src="img/thumbs/flaminga10.jpg" alt=""></a>
+				<a class="column grid_2" rel="prettyphoto[pp_gal]" href="img/large/flaminga11.jpg" title=""><img class="galThumb max-image" src="img/thumbs/flaminga11.jpg" alt=""></a>
+				<a class="column grid_2" rel="prettyphoto[pp_gal]" href="img/large/flaminga12.jpg" title=""><img class="galThumb max-image" src="img/thumbs/flaminga12.jpg" alt=""></a>
+			</div><!-- end .row -->
+		</div><!-- end div.column.grid_8 -->
+		<div class="column grid_4 video-container">
+				<iframe src="http://www.youtube.com/embed/1SuAFQ-hOwI?wmode=opaque" frameborder="0" allowfullscreen></iframe>
+				<p>Here's a review from one of our favorite customers! =D</p>
+		</div><!-- end div.column.grid_4 -->
+	</section><!-- end section.row -->
+	
+	<hr>
+	
+	<section class="row" id="order">
+		<div class="column grid_8">
+			<h1>Grab a Jar Today!</h1>
+			<p>We take great pride in crafting each jar with care and only use the best ingredients. Why do we go to such lengths? We want YOU to have the BEST Premium Salsa possible and we believe when you taste Flamin’ A Salsa you will agree, going the extra mile is worth it.</p>
+			<p>We want to thank you for visiting our website! If you haven’t tried Flamin’ A Salsa, give us a try! If you are already a devoted fan, THANK YOU and welcome back! Send us your feedback and don’t forget to upload your Serrano eating challenges!</p>
+		</div><!-- end div.column.grid_8 -->
+		<div class="column grid_4">
+			<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+				<input type="hidden" name="cmd" value="_s-xclick">
+				<input type="hidden" name="hosted_button_id" value="NM2HXY4T8NLAJ">
+				<input class="max-image" type="image" src="img/salsajars.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+				<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+			</form>
+		</div><!-- end div.column.grid_4 -->
+	</section><!-- end section.row -->
+	
 <footer id="contact">
 	<section class="row">
 		<div class="column grid_4">
 			<h2>Contact Info</h2>
+			<!--
+			<div class="contactItem unify">
+				<h3>Phone</h3>
+				<span class="phone">800.000.0000</span>
+			</div><!-- end .contactItem -->
 			<div class="contactItem unify">
 				<h3>Email</h3>
 				<span class="email">hh@flaminasalsa.com</span>
@@ -170,6 +174,10 @@
 			<div class="socialItem unify">
 				<img src="img/twitter.png">
 				<span><a href="http://www.twitter.com/flaminasalsa" target="_blank">twitter.com/flaminasalsa</a></span>
+			</div><!-- end .contactItem -->
+			<div class="socialItem unify">
+				<img src="img/pinterest.png">
+				<span><a href="http://pinterest.com/flaminasalsa/" target="_blank">pinterest/flaminasalsa</a></span>
 			</div><!-- end .contactItem -->
 		</div><!-- end grid_4 -->
 		
@@ -217,7 +225,7 @@
 	$(document).ready(function() {
 		$("a[rel^='prettyPhoto']").prettyPhoto({
 			theme: 'facebook', /* light_rounded / dark_rounded / light_square / dark_square / facebook */
-			default_height: 800, default_width:600, social_tools:false, show_title: true,  
+			default_height: 800, default_width:600, social_tools:false, 
 			markup: '<div class="pp_pic_holder"> \
 						<div class="ppt"></div> \
 						<div class="pp_top"> \
